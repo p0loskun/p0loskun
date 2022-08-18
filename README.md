@@ -10,7 +10,7 @@
   </a>
   <img alt="Discord" src="https://img.shields.io/badge/My%20Discord-Ашёт Хазяїн%230015-black?logo=discord&style=for-the-badge&logoColor=white">  
   <br><br><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=p0loskun&count_private=true&icon_color=FB8C00&hide_border=true&show_icons=true&theme=dark&border_radius=7">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p0loskun&theme=swift&hide_border=true&theme=dark">
-  <img src="https://activity-graph.herokuapp.com/graph?username=p0loskun&bg_color=151515&color=fefefe&line=FB8C00&point=FFBC67&hide_border=true&radius=7" width="98%">
+  <img src="https://github-readme-stats.vercel.app/api?username=p0loskun&count_private=true&icon_color=FB8C00&hide_border=true&show_icons=true&theme=dark&border_radius=7" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p0loskun&theme=swift&hide_border=true&theme=dark" width="49%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=p0loskun&bg_color=151515&color=fefefe&line=FB8C00&point=FFBC67&hide_border=true&radius=7" width="98.5%">
 </div>
