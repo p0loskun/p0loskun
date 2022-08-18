@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Poloskun&fontAlignY=35&fontSize=70&desc=Person%20who%20developing%20weird%20things%20for%20fun&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%" />
   <p>
-    Here you will find my projects (most of them are in @MinersStudios)<br> 
+    Here you will find my projects (most of them are in <a href="https://github.com/MinersStudios"><b>@MinersStudios</b></a>)<br> 
     I learn from myself and try to touch everything that interests me, so you can see a lot of shit code
   </p>
   <br>
