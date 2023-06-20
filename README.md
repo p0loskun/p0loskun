@@ -15,7 +15,7 @@
   </a>
   <br><br><br>
   <a href="#">
-    <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=p0loskun&count_private=true&icon_color=FB8C00&hide_border=true&show_icons=true&theme=dark&border_radius=20&title_color=FB8C00" width="49%">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=p0loskun&count_private=true&icon_color=FB8C00&hide_border=true&show_icons=true&theme=dark&border_radius=20&title_color=FB8C00&hide_title=true&line_height=28" width="49%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=p0loskun&theme=swift&hide_border=true&border_radius=20&theme=dark" width="49%">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=p0loskun&bg_color=151515&color=fefefe&line=FB8C00&point=FFBC67&hide_border=true&radius=20" width="98.5%">
   </a>
