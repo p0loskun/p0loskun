@@ -13,6 +13,10 @@
   <a href="#">
     <img alt="My Discord Username" src="https://img.shields.io/badge/My%20Discord-p0loskun-black?logo=discord&style=for-the-badge&logoColor=white">  
   </a>
+  <br>
+  <a href="https://whomine.net/telegram">
+    <img alt="Telegram" src="https://img.shields.io/badge/-telegram-red?color=000000&logo=Telegram&logoColor=FFFFFF&style=for-the-badge">
+  </a>
   <br><br><br>
   <a href="#">
     <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=p0loskun&count_private=true&icon_color=FB8C00&hide_border=true&show_icons=true&theme=dark&border_radius=20&title_color=FB8C00&hide_title=true&line_height=28" width="49%">
