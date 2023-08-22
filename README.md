@@ -19,8 +19,8 @@
   </a>
   <br><br><br>
   <a href="#">
-    <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=p0loskun&count_private=true&icon_color=d5c3f0&hide_border=true&show_icons=true&theme=dark&border_radius=20&bg_color=0000001E&title_color=d5c3f0&hide_title=true&line_height=28" width="49%">
-    <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=p0loskun&theme=dark&hide_border=true&border_radius=20&ring=D5C3F0&fire=D5C3F0&currStreakNum=D5C3F0&stroke=D5C3F0&sideNums=D5C3F0&currStreakLabel=D5C3F0&background=0000001E" width="49%">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p0loskun&bg_color=0000001E&color=D5C3F0&line=D5C3F0&point=deddfa&hide_border=true&radius=20&custom_title=Activity%20Graph" width="98.5%">
+    <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=p0loskun&count_private=true&icon_color=d5c3f0&hide_border=true&show_icons=true&theme=dark&border_radius=20&bg_color=302D4144&title_color=d5c3f0&hide_title=true&line_height=28" width="49%">
+    <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=p0loskun&theme=dark&hide_border=true&border_radius=20&ring=D5C3F0&fire=D5C3F0&currStreakNum=D5C3F0&stroke=D5C3F0&sideNums=D5C3F0&currStreakLabel=D5C3F0&background=302D4144" width="49%">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p0loskun&bg_color=302D4144&color=D5C3F0&line=D5C3F0&point=deddfa&hide_border=true&radius=20&custom_title=Activity%20Graph" width="98.5%">
   </a>
 </div>
