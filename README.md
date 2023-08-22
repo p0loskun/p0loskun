@@ -10,7 +10,7 @@
   • • •<br><br>
   
   <div>
-    <a href="https://whomine.ga/discord">
+    <a href="https://whomine.net/discord">
       <img alt="WhoMine Discord" src="https://img.shields.io/discord/928575868643733535?style=for-the-badge&label=WhoMine&logo=discord&color=d5c3f0&logoColor=d9e0ee&labelColor=302d41">
     </a>
     <a href="#">
