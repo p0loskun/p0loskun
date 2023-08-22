@@ -1,23 +1,28 @@
 <div align="center">
   <a href="#">
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=50&animation=fadeIn&section=header&text=Poloskun&fontAlignY=35&fontSize=70&desc=Person%20who%20developing%20weird%20things%20for%20fun" align="center" style="width: 100%" />
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=50&animation=fadeIn&section=header&text=Poloskun&fontAlignY=35&fontSize=70&desc=Person%20who%20developing%20weird%20things%20for%20fun" align="center" style="width: 100%">
   </a>
+  
   <p>
     Here you will find my projects (most of them are in <a href="https://github.com/MinersStudios"><b>@MinersStudios</b></a>)<br> 
     I learn from myself and try to touch everything that interests me, so you can see a lot of shit code
-    <br><br>• • •<br><br>
-    <a href="https://whomine.ga/discord">
-    <img alt="WhoMine Discord" src="https://img.shields.io/discord/928575868643733535?style=for-the-badge&label=WhoMine&logo=discord&color=d5c3f0&logoColor=d9e0ee&labelColor=302d41">
-  </a>
-  <a href="#">
-    <img alt="My Discord Username" src="https://img.shields.io/badge/My%20Discord-p0loskun-black?style=for-the-badge&logo=discord&color=f5dee3&logoColor=d9e0ee&labelColor=302d41">  
-  </a>
-    <br>
-  <a href="https://t.me/nikan_ashotovich">
-    <img alt="Telegram" src="https://img.shields.io/badge/telegram-black?logo=Telegram&style=for-the-badge&color=302d41&logoColor=d9e0ee&labelColor=302d41">
-  </a>
   </p>
+  • • •<br><br>
+  
+  <div>
+    <a href="https://whomine.ga/discord">
+      <img alt="WhoMine Discord" src="https://img.shields.io/discord/928575868643733535?style=for-the-badge&label=WhoMine&logo=discord&color=d5c3f0&logoColor=d9e0ee&labelColor=302d41">
+    </a>
+    <a href="#">
+      <img alt="My Discord Username" src="https://img.shields.io/badge/My%20Discord-p0loskun-black?style=for-the-badge&logo=discord&color=f5dee3&logoColor=d9e0ee&labelColor=302d41">  
+    </a>
+    <br>
+    <a href="https://t.me/nikan_ashotovich">
+      <img alt="Telegram" src="https://img.shields.io/badge/telegram-black?logo=Telegram&style=for-the-badge&color=302d41&logoColor=d9e0ee&labelColor=302d41">
+    </a>
+  </div>
   <br><br>
+  
   <a href="#">
     <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=p0loskun&count_private=true&icon_color=d5c3f0&hide_border=true&show_icons=true&theme=dark&border_radius=20&bg_color=39363F1E&title_color=d5c3f0&hide_title=true&line_height=28" width="49%">
     <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=p0loskun&theme=dark&hide_border=true&border_radius=20&ring=D5C3F0&fire=D5C3F0&currStreakNum=D5C3F0&stroke=D5C3F0&sideNums=D5C3F0&currStreakLabel=D5C3F0&background=39363F1E" width="49%">
