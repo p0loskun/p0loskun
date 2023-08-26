@@ -18,7 +18,10 @@
     </a>
     <br>
     <a href="https://t.me/nikan_ashotovich">
-      <img alt="Telegram" src="https://img.shields.io/badge/telegram-black?logo=Telegram&style=for-the-badge&color=302d41&logoColor=d9e0ee&labelColor=302d41">
+      <img alt="Telegram" src="https://img.shields.io/badge/telegram-black?logo=Telegram&style=for-the-badge&color=d5c3f0&logoColor=d9e0ee&labelColor=302d41">
+    </a>
+    <a href="#">
+      <img alt="" src="https://hits.sh/github.com/p0loskun.svg?style=for-the-badge&logo=github&color=f5dee3&logoColor=d9e0ee&labelColor=302d41">
     </a>
   </div>
   <br><br>
