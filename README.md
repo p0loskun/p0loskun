@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=50&animation=fadeIn&section=header&text=Nykon&fontAlignY=35&fontSize=70&desc=Person%20who%20developing%20weird%20things%20for%20fun" align="center" style="width: 100%">
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=50&animation=fadeIn&section=header&text=Poloskun&fontAlignY=35&fontSize=70&desc=Person%20who%20developing%20weird%20things%20for%20fun" align="center" style="width: 100%">
   </a>
   
   <p>
