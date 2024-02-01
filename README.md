@@ -1,9 +1,9 @@
 <div align="center">
   <a href="#">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=62&animation=fadeIn&section=header&text=Nykon&fontColor=white&fontAlignY=42&fontSize=60&desc=A%20person%20who%20develops%20peculiar%20things%20for%20fun">
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=62&animation=fadeIn&section=header&text=Nykon&fontAlignY=42&fontSize=60&desc=A%20person%20who%20develops%20peculiar%20things%20for%20fun">
       <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=62&animation=fadeIn&section=header&text=Nykon&fontColor=5C5C68&fontAlignY=42&fontSize=60&desc=A%20person%20who%20develops%20peculiar%20things%20for%20fun">
-      <img alt="Header" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=62&animation=fadeIn&section=header&text=Nykon&fontColor=6B4E7C&fontAlignY=42&fontSize=60&desc=A%20person%20who%20develops%20peculiar%20things%20for%20fun">
+      <img alt="Header" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=62&animation=fadeIn&section=header&text=Nykon&fontAlignY=42&fontSize=60&desc=A%20person%20who%20develops%20peculiar%20things%20for%20fun">
     </picture>
   </a>
   <p>
