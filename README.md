@@ -32,8 +32,8 @@
   </a>
   <a href="https://hits.sh/github.com/p0loskun/">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://hits.sh/github.com/p0loskun.svg?style=for-the-badge&logo=github&color=f5dee3&logoColor=363636&labelColor=ede9ff">
-      <img alt="Profile Views" src="https://hits.sh/github.com/p0loskun.svg?style=for-the-badge&logo=github&color=f5dee3&labelColor=302d41">
+      <source media="(prefers-color-scheme: light)" srcset="https://hits.sh/github.com/p0loskun.svg?style=for-the-badge&label=Views&logo=github&color=f5dee3&logoColor=363636&labelColor=ede9ff">
+      <img alt="Profile Views" src="https://hits.sh/github.com/p0loskun.svg?style=for-the-badge&label=Views&logo=github&color=f5dee3&labelColor=302d41">
     </picture>
   </a>
   <br><br>
