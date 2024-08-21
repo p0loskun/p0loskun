@@ -52,8 +52,7 @@
     </picture>
   </a>
   <br><br>
-  <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p0loskun/p0loskun/output/grid-snake.svg">
-      <img alt="Activity Graph" src="https://raw.githubusercontent.com/p0loskun/p0loskun/output/grid-snake-dark.svg" width="100%">
-    </picture>
+  <a href="#">
+    <img alt="Snake grid" src="https://raw.githubusercontent.com/p0loskun/p0loskun/output/contr-grid-snake.svg" width="100%">
+  </a>
 </div>
