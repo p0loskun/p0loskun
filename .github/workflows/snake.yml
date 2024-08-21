@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/contr-grid-snake.svg?color_snake=#d5c3f0&color_dots=#60596b,#837596,#8e7bab,#ab93cf,#b99fe0
+            dist/contr-grid-snake.svg?color_snake=#d5c3f0&color_dots=#39363f1e,#837596,#8e7bab,#ab93cf,#b99fe0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Pushing svg to the output branch
