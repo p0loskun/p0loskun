@@ -51,7 +51,6 @@
       <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p0loskun&bg_color=39363f1e&color=d5c3f0&line=d5c3f0&point=deddfa&hide_border=true&radius=20&hide_title=true" width="98.5%">
     </picture>
   </a>
-  <br><br>
   <a href="#">
     <img alt="Snake grid" src="https://raw.githubusercontent.com/p0loskun/p0loskun/output/contr-grid-snake.svg" width="100%">
   </a>
