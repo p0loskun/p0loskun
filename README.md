@@ -1,17 +1,17 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
-  <a href="#">
+  <a href="https://nykon.me">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=62&animation=fadeIn&section=header&text=Nykon&fontColor=5c5c68&fontAlignY=42&fontSize=60&desc=A%20person%20who%20develops%20peculiar%20things%20for%20fun">
       <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=200&descSize=13&descAlignY=52&animation=fadeIn&section=header&text=Nykon&fontAlignY=32&fontSize=60&desc=A%20person%20who%20develops%20peculiar%20things%20for%20fun" width="100%">
     </picture>
   </a>
   <p>
-    Here you will find my projects (most of them are in <a href="https://github.com/MinersStudios"><b>@MinersStudios</b></a>)<br> 
+    Here you will find my projects (most of them are in <a href="https://git.minersstudios.com"><b>@MinersStudios</b></a>)<br> 
     I am self-taught and strive to explore everything that interests me, so you may encounter a lot of shit code
   </p>
   • • •<br><br>
-  <a href="https://whomine.net/discord">
+  <a href="https://discord.whomine.net">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/discord/928575868643733535?style=for-the-badge&label=WhoMine&logo=discord&color=d5c3f0&logoColor=363636&labelColor=ede9ff">
       <img alt="WhoMine Discord" src="https://img.shields.io/discord/928575868643733535?style=for-the-badge&label=WhoMine&logo=discord&color=d5c3f0&logoColor=d9e0ee&labelColor=302d41">
@@ -24,7 +24,7 @@
     </picture>
   </a>
   <br>
-  <a href="https://t.me/nikan_ashotovich">
+  <a href="https://nykon.me/telegram">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/telegram-black?logo=Telegram&style=for-the-badge&color=d5c3f0&logoColor=363636&labelColor=ede9ff">
       <img alt="Telegram Channel" src="https://img.shields.io/badge/telegram-black?logo=Telegram&style=for-the-badge&color=d5c3f0&logoColor=d9e0ee&labelColor=302d41">
@@ -51,7 +51,7 @@
       <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p0loskun&bg_color=39363f1e&color=d5c3f0&line=d5c3f0&point=deddfa&hide_border=true&radius=20&hide_title=true" width="98.5%">
     </picture>
   </a>
-  <a href="#">
-    <img alt="Snake grid" src="https://raw.githubusercontent.com/p0loskun/p0loskun/output/contr-grid-snake.svg" width="100%">
+  <a href="#js-contribution-activity">
+    <img alt="Snake contribution grid" src="https://raw.githubusercontent.com/p0loskun/p0loskun/output/contr-grid-snake.svg" width="100%">
   </a>
 </div>
