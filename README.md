@@ -43,8 +43,8 @@
       <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=p0loskun&count_private=true&icon_color=d5c3f0&hide_border=true&show_icons=true&theme=dark&border_radius=20&bg_color=39363f1e&title_color=d5c3f0&hide_title=true&line_height=28" width="49%">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=p0loskun&hide_border=true&border_radius=20&ring=baa8d5&fire=baa8d5&currStreakNum=bda3e4&stroke=baa8d5&sideNums=baa8d5&currStreakLabel=bda3e4&background=c5c5c91e">
-      <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=p0loskun&theme=dark&hide_border=true&border_radius=20&ring=d5c3f0&fire=d5c3f0&currStreakNum=d5c3d0&stroke=d5c3f0&sideNums=d5c3f0&currStreakLabel=d5c3f0&background=39363f1e" width="49%">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=p0loskun&hide_border=true&border_radius=20&ring=baa8d5&fire=baa8d5&currStreakNum=bda3e4&stroke=baa8d5&sideNums=baa8d5&currStreakLabel=bda3e4&background=c5c5c91e">
+      <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=p0loskun&theme=dark&hide_border=true&border_radius=20&ring=d5c3f0&fire=d5c3f0&currStreakNum=d5c3d0&stroke=d5c3f0&sideNums=d5c3f0&currStreakLabel=d5c3f0&background=39363f1e" width="49%">
     </picture>
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=p0loskun&bg_color=c5c5c91e&color=9c8bb5&line=baa8d5&point=807ea5&hide_border=true&radius=20&hide_title=true">
