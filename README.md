@@ -30,28 +30,28 @@
       <img alt="Telegram Channel" src="https://img.shields.io/badge/telegram-black?logo=Telegram&style=for-the-badge&color=d5c3f0&logoColor=d9e0ee&labelColor=302d41">
     </picture>
   </a>
-  <a href="https://hits.sh/github.com/p0loskun/">
+  <a href="https://hits.sh/github.com/nykonhrytsyshyn/">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://hits.sh/github.com/p0loskun.svg?style=for-the-badge&label=Views&logo=github&color=f5dee3&logoColor=363636&labelColor=ede9ff">
-      <img alt="Profile Views" src="https://hits.sh/github.com/p0loskun.svg?style=for-the-badge&label=Views&logo=github&color=f5dee3&labelColor=302d41">
+      <source media="(prefers-color-scheme: light)" srcset="https://hits.sh/github.com/nykonhrytsyshyn.svg?style=for-the-badge&label=Views&logo=github&color=f5dee3&logoColor=363636&labelColor=ede9ff">
+      <img alt="Profile Views" src="https://hits.sh/github.com/nykonhrytsyshyn.svg?style=for-the-badge&label=Views&logo=github&color=f5dee3&labelColor=302d41">
     </picture>
   </a>
   <br><br>
   <a href="#">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=p0loskun&count_private=true&icon_color=baa8d5&hide_border=true&show_icons=true&border_radius=20&bg_color=c5c5c91e&title_color=baa8d5&hide_title=true&line_height=28">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=p0loskun&count_private=true&icon_color=d5c3f0&hide_border=true&show_icons=true&theme=dark&border_radius=20&bg_color=39363f1e&title_color=d5c3f0&hide_title=true&line_height=28" width="49%">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nykonhrytsyshyn&count_private=true&icon_color=baa8d5&hide_border=true&show_icons=true&border_radius=20&bg_color=c5c5c91e&title_color=baa8d5&hide_title=true&line_height=28">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nykonhrytsyshyn&count_private=true&icon_color=d5c3f0&hide_border=true&show_icons=true&theme=dark&border_radius=20&bg_color=39363f1e&title_color=d5c3f0&hide_title=true&line_height=28" width="49%">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=p0loskun&hide_border=true&border_radius=20&ring=baa8d5&fire=baa8d5&currStreakNum=bda3e4&stroke=baa8d5&sideNums=baa8d5&currStreakLabel=bda3e4&background=c5c5c91e">
-      <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=p0loskun&theme=dark&hide_border=true&border_radius=20&ring=d5c3f0&fire=d5c3f0&currStreakNum=d5c3d0&stroke=d5c3f0&sideNums=d5c3f0&currStreakLabel=d5c3f0&background=39363f1e" width="49%">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=nykonhrytsyshyn&hide_border=true&border_radius=20&ring=baa8d5&fire=baa8d5&currStreakNum=bda3e4&stroke=baa8d5&sideNums=baa8d5&currStreakLabel=bda3e4&background=c5c5c91e">
+      <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=nykonhrytsyshyn&theme=dark&hide_border=true&border_radius=20&ring=d5c3f0&fire=d5c3f0&currStreakNum=d5c3d0&stroke=d5c3f0&sideNums=d5c3f0&currStreakLabel=d5c3f0&background=39363f1e" width="49%">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=p0loskun&bg_color=c5c5c91e&color=9c8bb5&line=baa8d5&point=807ea5&hide_border=true&radius=20&hide_title=true">
-      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p0loskun&bg_color=39363f1e&color=d5c3f0&line=d5c3f0&point=deddfa&hide_border=true&radius=20&hide_title=true" width="98.5%">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nykonhrytsyshyn&bg_color=c5c5c91e&color=9c8bb5&line=baa8d5&point=807ea5&hide_border=true&radius=20&hide_title=true">
+      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nykonhrytsyshyn&bg_color=39363f1e&color=d5c3f0&line=d5c3f0&point=deddfa&hide_border=true&radius=20&hide_title=true" width="98.5%">
     </picture>
   </a>
   <a href="#js-contribution-activity">
-    <img alt="Snake contribution grid" src="https://raw.githubusercontent.com/p0loskun/p0loskun/output/contr-grid-snake.svg" width="100%">
+    <img alt="Snake contribution grid" src="https://raw.githubusercontent.com/nykonhrytsyshyn/nykonhrytsyshyn/output/contr-grid-snake.svg" width="100%">
   </a>
 </div>
